@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Entomological Society of Canada JAM 2025
+
+## Entomological Society of Canada JAM 2025
 
 ### _Emerging Tools in Arthropod Conservation Symposium_
 
