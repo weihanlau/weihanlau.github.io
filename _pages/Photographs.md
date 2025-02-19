@@ -5,4 +5,4 @@ permalink: /photographs/
 author_profile: true
 ---
 
-Coming soon I promise!
+Pictures!
