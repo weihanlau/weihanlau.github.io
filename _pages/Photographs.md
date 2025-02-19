@@ -5,4 +5,10 @@ permalink: /photographs/
 author_profile: true
 ---
 
-Pictures!
+Some pictures that I've taken will be added here soon. Stay tuned!
+
+## Bugs
+
+
+
+## Non-bugs
