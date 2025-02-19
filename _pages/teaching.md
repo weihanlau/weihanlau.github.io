@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+Wei the-best-TA-ever Han's study guides:
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### BIOL108
+
+### BIOL380
+

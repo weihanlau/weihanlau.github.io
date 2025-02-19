@@ -5,4 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-My researhc is blah 
+To be updated soon! 
+
+## Genetics 
+
+## Elytral patterns
