@@ -4,8 +4,8 @@ title: "Photographs"
 permalink: /photographs/
 author_profile: true
 gallery_one:
-  - url: "images/photographs/gallery1/image1.png"
-    image_path: "images/photographs/gallery1/image1.png"
+  - url: "photographs/gallery1/image1.png"
+    image_path: "photographs/gallery1/image1.png"
     alt: "_Cicindela formosa_ found near Empress, AB"
     title: "_Cicindela formosa_ found near Empress, AB"
   - url: "photographs/gallery2/image2.png"
@@ -35,10 +35,16 @@ gallery_one:
 gallery_two:
   - url: "photographs/gallery2/image1.png"
     image_path: "photographs/gallery2/image1.png"
+    alt: "title1"
+    title: "title1"
   - url: "photographs/gallery2/image2.png"
     image_path: "photographs/gallery2/image2.png"
+    alt: "title2"
+    title: "title2"
   - url: "photographs/gallery2/image3.png"
     image_path: "photographs/gallery2/image3.png"
+    alt: "title3"
+    title: "title3"
 ---
 
 <br>
