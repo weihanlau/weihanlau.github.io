@@ -50,8 +50,8 @@ gallery:
 
 ## Bugs
 
-{% include gallery id="gallery.gallery_one" %}
+{% include gallery id="gallery_one" %}
 
 ## Non-bugs
 
-{% include gallery id="gallery.gallery_two" %}
+{% include gallery id="gallery_two" %}
