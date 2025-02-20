@@ -1,7 +1,7 @@
 {% include base_path %}
 
 {% if include.id %}
-  {% assign gallery = page.[include.id] %}
+  {% assign gallery = page.gallery[include.id] %}
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
