@@ -14,7 +14,7 @@ gallery:
       alt: "_Cicindela scutellaris_ found in situ with _C. formosa_"
       title: "_Cicindela scutellaris_ found in situ with _C. formosa_"
     - image_path: "photographs/gallery1/image3.jpg"
-      image_path: "photographs/gallery1/image3.jpg"
+      url: "photographs/gallery1/image3.jpg"
       alt: "_Merhynchites bicolor_"
       title: "_Merhynchites bicolor_"
     - image_path: "photographs/gallery1/image4.jpg"
