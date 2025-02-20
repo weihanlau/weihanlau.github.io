@@ -9,7 +9,7 @@ Wei the-best-TA-ever Han's study guides:
 
 ### BIOL108
 
-[BIOL 108 lab final tudy guide](/files/pdf/biol108.pdf). 
+[BIOL108 lab final study guide](/files/pdf/biol108.pdf). 
 
 ### BIOL380
 
