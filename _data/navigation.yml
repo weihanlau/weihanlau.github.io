@@ -4,6 +4,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
@@ -16,11 +19,5 @@ main:
   - title: "Photographs"
     url: /photographs/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-
   - title: "Resources"
     url: /resources/

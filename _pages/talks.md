@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Invited talks and presentations"
+title: "Invited talks"
 permalink: /talks/
 author_profile: true
 ---
+
+<br><br><br>
 
 ### Entomological Society of Canada JAM 2025
 
